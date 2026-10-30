@@ -19,7 +19,7 @@ ADMIN_ID = 7741441989
 # ৪টি বাধ্যতামূলক গ্রুপ/চ্যানেলের লিংক বা ইউজারনেম
 # (বটকে অবশ্যই এই চ্যানেলগুলোতে Admin করে রাখতে হবে)
 CHANNELS = [
-    "@publicchat084",
+    "-1003138369609",
     "https://t.me/+oialIN5nGMpmYzU1",
     "https://t.me/+0XtG3hTk1QNlZGZl",
     "https://t.me/+hbnMRX43ciU3MDBl"
